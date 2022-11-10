@@ -40,11 +40,14 @@
 
 
 ## :fire:My Stats
-
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vishnu-260102&show_icons=true&locale=en" alt="Vishnu-260102" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-260102&" alt="Vishnu-260102" /></p>
-
+  
+  <br/>
+<p align="left">
+  <a href="https://abhigyantrips.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Vishnu-260102&show_icons=true&locale=en" alt="Vishnu-260102" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-260102&" alt="Vishnu-260102" />
+  </a>
+</p>
 <br>
 
 <!--
