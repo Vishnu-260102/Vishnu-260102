@@ -9,7 +9,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vishnu-vardhan-srinivasan-281488a4/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vishnu" height="30" width="40" /></a>
-<a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vishnu" height="30" width="40" /></a>
+<a href="https://m.facebook.com/VJvishnu2606?eav=AfZ0J19iP0SASmvSu_Az_O8iSyU6C462rIQlWdAH0y3xdfwXfT_waBECVgvJe6nX_T0&paipv=0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vishnu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/19bcs096" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@vishnu" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__vishnu.06__/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vishnu" height="30" width="40" /></a>
  <a href = "mailto: vishnuvardhan1963@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
@@ -70,10 +70,6 @@
 
 <br>
 
-
-
-
-
 ## :fire:My Stats
   
   <br/>
@@ -84,18 +80,3 @@
   </a>
 </p>
 <br>
-
-<!--
-**Vishnu-260102/Vishnu-260102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
