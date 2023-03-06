@@ -74,7 +74,7 @@
   
   <br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
+  <a href="https://github.com/Vishnu-260102">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Vishnu-260102&show_icons=true&locale=en" alt="Vishnu-260102" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu-260102&" alt="Vishnu-260102" />
   </a>
