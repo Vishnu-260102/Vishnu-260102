@@ -1,7 +1,7 @@
 <h1 align="center" >Hi , I'm Vishnu Vardhan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30"></h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poor+Story&size=40&pause=1000&color=06B7FF&vCenter=true&multiline=true&width=600&height=150&lines=Computer+Science+Student;Passionate+Android+Application+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poor+Story&size=40&pause=1000&color=06B7FF&vCenter=true&multiline=true&width=600&height=150&lines=Computer+Science+Student;Passionate+Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 
