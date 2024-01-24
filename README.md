@@ -35,8 +35,8 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently doing Intern at **Calibraint** technologies **@chennai**<br>
-✔ I’m currently learning **JavaScript** & **Flutter**<br>
+✔ Junior Full Stack Developer at **Logimax** technologies **@coimbatore**<br>
+✔ I’m currently learning **React** & **Django**<br>
 ✔ I’m looking for help for learning **Swift & Dart**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact :  *A new database query walks into a bar. The server says "Sorry, cache only.*<br><br><br>
