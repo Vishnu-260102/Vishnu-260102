@@ -35,7 +35,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ Junior Full Stack Developer at **Logimax** technologies **@coimbatore**<br>
+✔ Junior Programmer at **Shining Dawn** solutions **@coimbatore**<br>
 ✔ I’m currently learning **React** & **Django**<br>
 ✔ I’m looking for help for learning **Swift & Dart**<br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
